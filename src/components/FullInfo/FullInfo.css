@@ -1,0 +1,31 @@
+.full-info {
+    width: 400px;
+    margin: 0 auto;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 3px #ccc;
+    position: relative;
+    border-radius: 5px;
+}
+
+.full-info h3 {
+    font-size: 25px;
+    font-weight: 500;
+    padding: 15px;
+    margin: 0;
+    border-bottom: 1px solid #ccc;
+}
+
+.full-info p {
+    padding: 15px;
+    margin: 0;
+    border-bottom: 1px solid #ccc;
+}
+
+.flag-img {
+    border-bottom: 1px solid #ccc;
+}
+
+img {
+    width: 400px;
+}
+
