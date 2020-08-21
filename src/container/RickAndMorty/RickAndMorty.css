@@ -1,0 +1,10 @@
+.characters {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.rickAndMorty {
+    width: 1200px;
+    margin: 0 auto;
+}
+
